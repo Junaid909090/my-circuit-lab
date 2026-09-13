@@ -232,3 +232,8 @@ This project is licensed under the license included in this repository.
 
 GitHub:
 https://github.com/Junaid909090
+
+## 📸 Screenshot
+
+![My Circuit Lab](./screenshots/circuit-main1.png)
+![My Circuit Lab](./screenshots/circuit-main2.png)
