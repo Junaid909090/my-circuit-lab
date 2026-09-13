@@ -235,5 +235,5 @@ https://github.com/Junaid909090
 
 ## 📸 Screenshot
 
-![My Circuit Lab](./screenshots/circuit-main1.png)
-![My Circuit Lab](./screenshots/circuit-main2.png)
+![My Circuit Lab](.circuit-main1.png)
+![My Circuit Lab](./circuit-main2.png)
