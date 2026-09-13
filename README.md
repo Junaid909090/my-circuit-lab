@@ -237,8 +237,8 @@ https://github.com/Junaid909090
 
 ### Main Circuit Lab
 
-![My Circuit Lab](./circuit-main.png)
+![My Circuit Lab - Main](./ircuit-main1.png)
 
-### Circuit ON
+### Circuit Operation
 
-![Circuit ON](./circuit-on.png)
+![My Circuit Lab - Circuit](./ircuit-main2.png)
